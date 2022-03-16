@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380915491601",
+    "project_id": "flashapp-bec9e",
+    "storage_bucket": "flashapp-bec9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380915491601:android:6b15307e9a18bc489a22b0",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380915491601-hbq3o5scn579lfad9qsa2pnuo7std5cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4bmm-MXeLA6J8ff6BTgI2R2NuF6e6So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380915491601-hbq3o5scn579lfad9qsa2pnuo7std5cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
